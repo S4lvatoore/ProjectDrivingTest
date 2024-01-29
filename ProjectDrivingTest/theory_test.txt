@@ -1,0 +1,10 @@
+﻿Question 1: What is the legal blood alcohol concentration (BAC) limit for non-commercial drivers over 21?|0.08%|0.05%|0.10%|0.00%|A
+Question 2: When are you allowed to drive in a bus lane?|During off-peak hours|When making a right turn|At any time for convenience|Never|B
+Question 3: What does a solid white line on the road indicate?|It divides two lanes of traffic moving in the same direction|You may change lanes with caution|It marks the shoulder of the road|You should not cross the line|D
+Question 4: What's the minimum following distance under ideal driving conditions?|1 second|2 seconds|3 seconds|4 seconds|C
+Question 5: What does 'hydroplaning' mean?|Driving through deep standing water|Losing tire traction on wet roads and sliding|Skidding on dry roads|Driving fast in the rain|B
+Question 6: In which situation are you not allowed to pass another vehicle?|On a bridge|In a school zone when no children are present|On a one-way street|When approaching a hill or a curve where you can't see ahead|D
+Question 7: What should you do when you see a pedestrian with a white cane at the crosswalk?|Honk to alert them|Proceed with caution|Stop and give the pedestrian the right of way|The pedestrian has no special right of way|C
+Question 8: What is the main purpose of the shoulder on a highway?|For emergency use and stopping only|For slow vehicles to travel on|For regular driving|For passing other vehicles|A
+Question 9: What does 'defensive driving' mean?|Driving aggressively to defend your lane|Taking actions to prevent accidents in spite of the actions of others or adverse conditions|Following the rules of the road at all times|Always giving way to other vehicles|B
+Question 10: At a four-way stop, who has the right of way?|The vehicle to the right|The first vehicle to stop|The fastest vehicle|The largest vehicle|B

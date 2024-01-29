@@ -1,0 +1,11 @@
+﻿Question 1: What does a red and white triangular sign indicate?|Yield|Stop|Do not enter|Wrong way|A
+Question 2: What does a sign with a pedestrian symbol indicate?|School zone|Pedestrian crossing|Children playing|Park area ahead|B
+Question 3: What does a diamond-shaped sign typically indicate?|Stop|Yield|Warning|Regulatory|C
+Question 4: What does a circular sign with a horizontal line mean?|Railroad crossing|Hospital zone|No entry|Roundabout ahead|A
+Question 5: What does a blue sign with a white "H" indicate?|Hotel area|Helipad nearby|Highway exit|Hospital nearby|D
+Question 6: What does an orange sign usually signify?|General warning|School zone|Construction or road work ahead|Historic site|C
+Question 7: A sign showing a curving arrow with a speed limit beneath it indicates:|Minimum speed|Suggested speed for the curve|Maximum speed|Direction of the nearest turn|B
+Question 8: What does a green sign usually indicate?|Park zone|Direction or guidance|Rest area ahead|Speed limit|B
+Question 9: A sign with a red circle and a red line through a car means:|No parking|No entry for cars|Speed limit for cars|Car repair nearby|B
+Question 10: What does a sign with a truck on a downward slope represent?|Truck entrance|Steep descent for trucks|Truck parking|Trucks have the right of way|B
+
